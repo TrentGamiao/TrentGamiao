@@ -11,5 +11,5 @@ Languages:
 - HTML
 
 Contact me here:
-- [Linkedin](www.linkedin.com/in/trent-jericho-gamiao)
+- [Linkedin](https://www.linkedin.com/in/trent-jericho-gamiao)
 - trentgamiao@gmail.com
